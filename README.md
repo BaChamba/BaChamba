@@ -34,7 +34,7 @@
 |------------------|------------------------------------|
 | Infraestructura  | Linux, cPanel, Plesk, SonicPanel, Azure   |
 | ERP              | Odoo Community,  Enterprise        |
-| Desarrollo web   | WordPress, WHMCS, Moodle           |
+| Desarrollo web   | Odoo, WordPress, WHMCS, Moodle           |
 | Visual & Branding| Illustrator, Photoshop, Figma      |
 | Analítica & BI   | Dashboards, Reportes, Python       |
 
